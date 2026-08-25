@@ -604,10 +604,11 @@ _Interactive Python interpreters (REPL)._
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis)._
 
 - Code Analysis
-  - [vulture](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
-  - [prospector](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
-  - [repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
   - [complexipy](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
+  - [prospector](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
+  - [pyrift](https://github.com/BHUVANSH855/pyrift) - Detects silent Python behaviour differences across CPython versions and PyPy that linters and type checkers miss.
+  - [repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
+  - [vulture](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 - Git Hooks
   - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters
